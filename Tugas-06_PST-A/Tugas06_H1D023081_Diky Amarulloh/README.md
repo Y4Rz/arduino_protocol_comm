@@ -104,3 +104,5 @@ delay(2);
 * Mengatur kecepatan scroll
 * kecepatan diatur 2 ms
 
+Dokumentasi
+![Simulasi percobaan](tugas06.GIF)
